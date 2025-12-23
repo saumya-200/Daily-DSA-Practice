@@ -1,6 +1,6 @@
 # 🚀 LeetCode Solutions
 
-Questions that I have solved, [LeetCode](https://leetcode.com/)!
+Questions that I have solved on, [LeetCode](https://leetcode.com/)!
 
 ## 📊 Statistics
 
