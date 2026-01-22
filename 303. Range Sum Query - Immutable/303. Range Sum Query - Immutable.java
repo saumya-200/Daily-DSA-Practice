@@ -1,7 +1,7 @@
 /*
  * Problem: 303. Range Sum Query - Immutable
  * Difficulty: Easy
- * Link: https://leetcode.com/problems/range-sum-query-immutable/
+ * Link: https://leetcode.com/problems/range-sum-query-immutable/submissions/1893676728/
  * Language: java
  * Date: 2026-01-22
  */
