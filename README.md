@@ -4,8 +4,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 13
-- **Easy:** 9 🟢
+- **Total Problems Solved:** 14
+- **Easy:** 10 🟢
 - **Medium:** 4 🟡
 - **Hard:** 0 🔴
 
@@ -19,6 +19,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [1854. Maximum Population Year](https://leetcode.com/problems/maximum-population-year/) | 🟢 Easy | java | 2026-01-27 |
 | [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/submissions/1885835812/) | 🟢 Easy | java | 2026-01-15 |
 | [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/submissions/1883806977/) | 🟢 Easy | java | 2026-01-13 |
+| [2574. Left and Right Sum Differences](https://leetcode.com/problems/left-and-right-sum-differences/submissions/1900167458/) | 🟢 Easy | java | 2026-01-28 |
 | [303. Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/) | 🟢 Easy | java | 2026-01-22 |
 | [387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/submissions/1885870190/) | 🟢 Easy | java | 2026-01-15 |
 | [724. Find Pivot Index](https://leetcode.com/problems/find-pivot-index/submissions/1898722849/) | 🟢 Easy | java | 2026-01-27 |
