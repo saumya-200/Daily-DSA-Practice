@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 17
+- **Total Problems Solved:** 18
 - **Easy:** 11 🟢
-- **Medium:** 5 🟡
+- **Medium:** 6 🟡
 - **Hard:** 1 🔴
 
 ## 📝 Problems
@@ -24,6 +24,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/submissions/1885870190/) | 🟢 Easy | java | 2026-01-15 |
 | [389. Find the Difference](https://leetcode.com/problems/find-the-difference/) | 🟢 Easy | java | 2026-01-29 |
 | [724. Find Pivot Index](https://leetcode.com/problems/find-pivot-index/submissions/1898722849/) | 🟢 Easy | java | 2026-01-27 |
+| [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/submissions/1900681399/) | 🟡 Medium | java | 2026-01-29 |
 | [198. House Robber](https://leetcode.com/problems/house-robber/submissions/1894015234/) | 🟡 Medium | java | 2026-01-23 |
 | [198. House Robber](https://leetcode.com/problems/house-robber/submissions/1894015234/) | 🟡 Medium | java | 2026-01-23 |
 | [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/submissions/1900447613/) | 🟡 Medium | java | 2026-01-29 |
