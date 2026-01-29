@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 14
+- **Total Problems Solved:** 15
 - **Easy:** 10 🟢
-- **Medium:** 4 🟡
+- **Medium:** 5 🟡
 - **Hard:** 0 🔴
 
 ## 📝 Problems
@@ -25,6 +25,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [724. Find Pivot Index](https://leetcode.com/problems/find-pivot-index/submissions/1898722849/) | 🟢 Easy | java | 2026-01-27 |
 | [198. House Robber](https://leetcode.com/problems/house-robber/submissions/1894015234/) | 🟡 Medium | java | 2026-01-23 |
 | [198. House Robber](https://leetcode.com/problems/house-robber/submissions/1894015234/) | 🟡 Medium | java | 2026-01-23 |
+| [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/submissions/1900447613/) | 🟡 Medium | java | 2026-01-29 |
 | [443. String Compression](https://leetcode.com/problems/string-compression/submissions/1899457679/) | 🟡 Medium | java | 2026-01-28 |
 | [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/submissions/1899398905/) | 🟡 Medium | java | 2026-01-28 |
 
