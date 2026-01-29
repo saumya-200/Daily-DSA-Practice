@@ -4,10 +4,10 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 16
+- **Total Problems Solved:** 17
 - **Easy:** 11 🟢
 - **Medium:** 5 🟡
-- **Hard:** 0 🔴
+- **Hard:** 1 🔴
 
 ## 📝 Problems
 
@@ -29,6 +29,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/submissions/1900447613/) | 🟡 Medium | java | 2026-01-29 |
 | [443. String Compression](https://leetcode.com/problems/string-compression/submissions/1899457679/) | 🟡 Medium | java | 2026-01-28 |
 | [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/submissions/1899398905/) | 🟡 Medium | java | 2026-01-28 |
+| [315. Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/submissions/1900594251/) | 🔴 Hard | java | 2026-01-29 |
 
 ---
 
