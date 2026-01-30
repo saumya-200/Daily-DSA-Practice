@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 20
+- **Total Problems Solved:** 21
 - **Easy:** 11 🟢
-- **Medium:** 7 🟡
+- **Medium:** 8 🟡
 - **Hard:** 2 🔴
 
 ## 📝 Problems
@@ -27,6 +27,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/submissions/1900681399/) | 🟡 Medium | java | 2026-01-29 |
 | [198. House Robber](https://leetcode.com/problems/house-robber/submissions/1894015234/) | 🟡 Medium | java | 2026-01-23 |
 | [198. House Robber](https://leetcode.com/problems/house-robber/submissions/1894015234/) | 🟡 Medium | java | 2026-01-23 |
+| [200. Number of Islands](https://leetcode.com/problems/number-of-islands/submissions/1901647862/) | 🟡 Medium | java | 2026-01-30 |
 | [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/submissions/1900447613/) | 🟡 Medium | java | 2026-01-29 |
 | [443. String Compression](https://leetcode.com/problems/string-compression/submissions/1899457679/) | 🟡 Medium | java | 2026-01-28 |
 | [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/submissions/1899398905/) | 🟡 Medium | java | 2026-01-28 |
