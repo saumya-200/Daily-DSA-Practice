@@ -4,10 +4,10 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 19
+- **Total Problems Solved:** 20
 - **Easy:** 11 🟢
 - **Medium:** 7 🟡
-- **Hard:** 1 🔴
+- **Hard:** 2 🔴
 
 ## 📝 Problems
 
@@ -31,6 +31,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [443. String Compression](https://leetcode.com/problems/string-compression/submissions/1899457679/) | 🟡 Medium | java | 2026-01-28 |
 | [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/submissions/1899398905/) | 🟡 Medium | java | 2026-01-28 |
 | [881. Boats to Save People](https://leetcode.com/problems/boats-to-save-people/submissions/1900694306/) | 🟡 Medium | java | 2026-01-29 |
+| [2528. Maximize the Minimum Powered City](https://leetcode.com/problems/maximize-the-minimum-powered-city/submissions/1901620976/) | 🔴 Hard | java | 2026-01-30 |
 | [315. Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/submissions/1900594251/) | 🔴 Hard | java | 2026-01-29 |
 
 ---
