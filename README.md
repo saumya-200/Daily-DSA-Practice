@@ -4,8 +4,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 25
-- **Easy:** 13 🟢
+- **Total Problems Solved:** 26
+- **Easy:** 14 🟢
 - **Medium:** 10 🟡
 - **Hard:** 2 🔴
 
@@ -26,6 +26,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/submissions/1885870190/) | 🟢 Easy | java | 2026-01-15 |
 | [389. Find the Difference](https://leetcode.com/problems/find-the-difference/) | 🟢 Easy | java | 2026-01-29 |
 | [724. Find Pivot Index](https://leetcode.com/problems/find-pivot-index/submissions/1898722849/) | 🟢 Easy | java | 2026-01-27 |
+| [868. Binary Gap](https://leetcode.com/problems/binary-gap/submissions/1927130204/?envType=daily-question&envId=2026-02-22) | 🟢 Easy | java | 2026-02-22 |
 | [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/submissions/1900681399/) | 🟡 Medium | java | 2026-01-29 |
 | [198. House Robber](https://leetcode.com/problems/house-robber/submissions/1894015234/) | 🟡 Medium | java | 2026-01-23 |
 | [198. House Robber](https://leetcode.com/problems/house-robber/submissions/1894015234/) | 🟡 Medium | java | 2026-01-23 |
