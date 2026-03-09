@@ -4,8 +4,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 27
-- **Easy:** 14 🟢
+- **Total Problems Solved:** 28
+- **Easy:** 15 🟢
 - **Medium:** 11 🟡
 - **Hard:** 2 🔴
 
@@ -16,6 +16,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [1. Two Sum](https://leetcode.com/problems/two-sum/) | 🟢 Easy | Java | 2025-12-23 |
 | [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/submissions/1908381627/) | 🟢 Easy | java | 2026-02-04 |
 | [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/submissions/1908381627/) | 🟢 Easy | java | 2026-02-04 |
+| [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | 🟢 Easy | java | 2026-03-09 |
 | [1480. Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/submissions/1892532539/) | 🟢 Easy | java | 2026-01-21 |
 | [169. Majority Element](https://leetcode.com/problems/majority-element/submissions/1885844446/) | 🟢 Easy | java | 2026-01-15 |
 | [1854. Maximum Population Year](https://leetcode.com/problems/maximum-population-year/) | 🟢 Easy | java | 2026-01-27 |
