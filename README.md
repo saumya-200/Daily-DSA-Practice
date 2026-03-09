@@ -4,8 +4,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 28
-- **Easy:** 15 🟢
+- **Total Problems Solved:** 29
+- **Easy:** 16 🟢
 - **Medium:** 11 🟡
 - **Hard:** 2 🔴
 
@@ -23,6 +23,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/submissions/1885835812/) | 🟢 Easy | java | 2026-01-15 |
 | [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/submissions/1883806977/) | 🟢 Easy | java | 2026-01-13 |
 | [2574. Left and Right Sum Differences](https://leetcode.com/problems/left-and-right-sum-differences/submissions/1900167458/) | 🟢 Easy | java | 2026-01-28 |
+| [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/submissions/1942993589/) | 🟢 Easy | java | 2026-03-09 |
 | [303. Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/) | 🟢 Easy | java | 2026-01-22 |
 | [387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/submissions/1885870190/) | 🟢 Easy | java | 2026-01-15 |
 | [389. Find the Difference](https://leetcode.com/problems/find-the-difference/) | 🟢 Easy | java | 2026-01-29 |
