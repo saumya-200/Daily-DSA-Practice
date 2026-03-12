@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 30
+- **Total Problems Solved:** 31
 - **Easy:** 17 🟢
-- **Medium:** 11 🟡
+- **Medium:** 12 🟡
 - **Hard:** 2 🔴
 
 ## 📝 Problems
@@ -31,6 +31,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [724. Find Pivot Index](https://leetcode.com/problems/find-pivot-index/submissions/1898722849/) | 🟢 Easy | java | 2026-01-27 |
 | [868. Binary Gap](https://leetcode.com/problems/binary-gap/submissions/1927130204/?envType=daily-question&envId=2026-02-22) | 🟢 Easy | java | 2026-02-22 |
 | [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/submissions/1900681399/) | 🟡 Medium | java | 2026-01-29 |
+| [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/submissions/1946301920/) | 🟡 Medium | java | 2026-03-12 |
 | [167. Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/submissions/1942925731/) | 🟡 Medium | java | 2026-03-09 |
 | [198. House Robber](https://leetcode.com/problems/house-robber/submissions/1894015234/) | 🟡 Medium | java | 2026-01-23 |
 | [198. House Robber](https://leetcode.com/problems/house-robber/submissions/1894015234/) | 🟡 Medium | java | 2026-01-23 |
