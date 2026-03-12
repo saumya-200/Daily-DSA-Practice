@@ -1,27 +1,30 @@
 /*
  * Problem: 11. Container With Most Water
  * Difficulty: Medium
- * Link: https://leetcode.com/problems/container-with-most-water/submissions/1900681399/
+ * Link: https://leetcode.com/problems/container-with-most-water/submissions/1946301920/
  * Language: java
- * Date: 2026-01-29
+ * Date: 2026-03-12
  */
 
 class Solution {
     public int maxArea(int[] height) {
-        int l=0;
-        int r=height.length-1;
-        int res=0;
-        while(l<r){
-            int area=Math.min(height[l],height[r])*(r-l);
-            res=Math.max(res,area);
-            if (height[l]<height[r]){
-                l=l+1;
+        int left=0;
+        int right = height.length -1;
+        int maxArea=0;
+
+        while (left < right){
+            int width = right-left;
+            int hei = Math.min(height[left],height[right]);
+            int area = width*hei;
+            maxArea = Math.max(maxArea,area);
+
+            if (height[left]< height[right]){
+                left++;
             }
             else{
-                r=r-1;
+                right--;
             }
         }
-        return res;
-            
-        }
+        return maxArea;
     }
+}
